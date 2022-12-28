@@ -1,0 +1,15 @@
+body {
+    height: 8339px;
+	overflow-x: hidden
+}
+
+.main-wrap {
+    width: 100%;
+	height: 8339px;
+}
+
+.bar {
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+}
